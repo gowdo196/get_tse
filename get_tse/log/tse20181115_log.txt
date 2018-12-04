@@ -1,0 +1,275 @@
+
+[2018-11-15 16:04:33]==== run_with_interval ====
+[2018-11-15 16:04:33]send_post_request list size=67, last_time_list size=0
+[2018-11-15 16:04:33]len(Schedule_dict)3, Schedule done count=1, check_list size=25
+[2018-11-15 16:04:33]TWT58U unchange
+[2018-11-15 16:04:33]len(Schedule_dict)3, Schedule done count=2, check_list size=25
+[2018-11-15 16:04:33]TWT95U unchange
+[2018-11-15 16:04:33]len(Schedule_dict)3, Schedule done count=2, check_list size=25
+[2018-11-15 16:04:33]BTLOUR unchange
+[2018-11-15 16:04:33]len(Schedule_dict)3, Schedule done count=2, check_list size=25
+[2018-11-15 16:04:33]BFIDHU.CSV download size=16057
+[2018-11-15 16:04:33]len(Schedule_dict)3, Schedule done count=2, check_list size=24
+[2018-11-15 16:04:33]BFIDHU.XLS download size=26981
+[2018-11-15 16:04:33]len(Schedule_dict)3, Schedule done count=2, check_list size=23
+[2018-11-15 16:04:34]BFIDLU.CSV download size=15955
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=22
+[2018-11-15 16:04:34]BFIDLU.XLS download size=26720
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=21
+[2018-11-15 16:04:34]BFIDMU.CSV unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=21
+[2018-11-15 16:04:34]BFIDMU.XLS unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=21
+[2018-11-15 16:04:34]BFIDNU.CSV download size=766
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=20
+[2018-11-15 16:04:34]BFIDNU.XLS download size=1452
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=19
+[2018-11-15 16:04:34]BFIDOU.CSV unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=19
+[2018-11-15 16:04:34]BFIDOU.XLS unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=19
+[2018-11-15 16:04:34]BFIDPU.CSV download size=670
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=18
+[2018-11-15 16:04:34]BFIDPU.XLS download size=1200
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=17
+[2018-11-15 16:04:34]BFIDQU.CSV unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=17
+[2018-11-15 16:04:34]BFIDQU.XLS unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=17
+[2018-11-15 16:04:34]N41 unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=17
+[2018-11-15 16:04:34]O41 unchange
+[2018-11-15 16:04:34]len(Schedule_dict)3, Schedule done count=2, check_list size=17
+[2018-11-15 16:04:34]TWT54U download size=1671900
+[2018-11-15 16:04:36]len(Schedule_dict)3, Schedule done count=2, check_list size=16
+[2018-11-15 16:04:36]TWT54U.csv unchange
+[2018-11-15 16:04:36]len(Schedule_dict)3, Schedule done count=2, check_list size=16
+[2018-11-15 16:04:36]TWTADU unchange
+[2018-11-15 16:04:36]len(Schedule_dict)3, Schedule done count=2, check_list size=16
+[2018-11-15 16:04:36]TOP.ZIP download size=2326221
+[2018-11-15 16:04:36]len(Schedule_dict)3, Schedule done count=2, check_list size=15
+[2018-11-15 16:04:36]HBOURU unchange
+[2018-11-15 16:04:36]len(Schedule_dict)3, Schedule done count=2, check_list size=15
+[2018-11-15 16:04:36]HBOURU.csv unchange
+[2018-11-15 16:04:36]len(Schedule_dict)3, Schedule done count=2, check_list size=15
+[2018-11-15 16:04:36]TWT47U download size=2061750
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=14
+[2018-11-15 16:04:37]TWT47U.csv unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=14
+[2018-11-15 16:04:37]BWOFFU unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=14
+[2018-11-15 16:04:37]BWOFFU.csv unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=14
+[2018-11-15 16:04:37]TWT38U download size=192280
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=13
+[2018-11-15 16:04:37]TWTABU unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=13
+[2018-11-15 16:04:37]TWT38U.csv unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=13
+[2018-11-15 16:04:37]TWTABU.csv unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=13
+[2018-11-15 16:04:37]TWT53U unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=13
+[2018-11-15 16:04:37]TWT53U.csv unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=13
+[2018-11-15 16:04:37]TWTA8U unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=13
+[2018-11-15 16:04:37]HWPBKU download size=93300
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=12
+[2018-11-15 16:04:37]HWPBKU.csv unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=12
+[2018-11-15 16:04:37]TWTA8U.csv unchange
+[2018-11-15 16:04:37]len(Schedule_dict)3, Schedule done count=2, check_list size=12
+[2018-11-15 16:04:37]BFICAE download size=550
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=11
+[2018-11-15 16:04:38]BFICAE.csv unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=11
+[2018-11-15 16:04:38]MSMQP download size=821420
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=10
+[2018-11-15 16:04:38]MSMQP.csv unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=10
+[2018-11-15 16:04:38]TWT43U download size=1222840
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=9
+[2018-11-15 16:04:38]TWTAAU unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=9
+[2018-11-15 16:04:38]TWT43U.csv unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=9
+[2018-11-15 16:04:38]TWTAAU.csv unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=9
+[2018-11-15 16:04:38]TWT44U download size=9920
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=8
+[2018-11-15 16:04:38]TWT44U.csv unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=8
+[2018-11-15 16:04:38]TWHFAU download size=150
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=7
+[2018-11-15 16:04:38]BFTAEU unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=7
+[2018-11-15 16:04:38]TWHFAU.csv unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=7
+[2018-11-15 16:04:38]BFTAEU.csv unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=7
+[2018-11-15 16:04:38]AWSTIU unchange
+[2018-11-15 16:04:38]len(Schedule_dict)3, Schedule done count=2, check_list size=7
+[2018-11-15 16:04:38]AWSTIU1 download size=2682000
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]TWTA6U unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]AWSTIU.xls unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]AWSTIU1.xls unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]TWTA6U.xls unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]HWPIXU unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]HWPIXU.csv unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]BFVALU unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]BFVALU.csv unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]TWFSTU unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=6
+[2018-11-15 16:04:39]TWFSTU1 download size=96480
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:04:39]TWFSTU1.xls unchange
+[2018-11-15 16:04:39]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:04:39]TWFSTU.xls unchange
+[2018-11-15 16:04:39]==== send_post_request tick complete ====
+[2018-11-15 16:05:39]==== run_with_interval ====
+[2018-11-15 16:05:40]send_post_request list size=67, last_time_list size=67
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT58U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT95U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BTLOUR unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDHU.CSV unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDHU.XLS unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDLU.CSV unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDLU.XLS unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDMU.CSV unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDMU.XLS unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDNU.CSV unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDNU.XLS unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDOU.CSV unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDOU.XLS unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDPU.CSV unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDPU.XLS unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDQU.CSV unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFIDQU.XLS unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]N41 unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]O41 unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT54U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT54U.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTADU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TOP.ZIP unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]HBOURU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]HBOURU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT47U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT47U.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BWOFFU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BWOFFU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT38U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTABU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT38U.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTABU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT53U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT53U.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTA8U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]HWPBKU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]HWPBKU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTA8U.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFICAE unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFICAE.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]MSMQP unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]MSMQP.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT43U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTAAU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT43U.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTAAU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT44U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWT44U.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWHFAU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFTAEU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWHFAU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFTAEU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]AWSTIU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]AWSTIU1 unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTA6U unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]AWSTIU.xls unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]AWSTIU1.xls unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWTA6U.xls unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]HWPIXU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]HWPIXU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFVALU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]BFVALU.csv unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWFSTU unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWFSTU1 unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWFSTU1.xls unchange
+[2018-11-15 16:05:40]len(Schedule_dict)3, Schedule done count=2, check_list size=5
+[2018-11-15 16:05:40]TWFSTU.xls unchange
+[2018-11-15 16:05:40]==== send_post_request tick complete ====

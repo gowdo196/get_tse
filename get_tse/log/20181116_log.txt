@@ -1,0 +1,96 @@
+Version 1.0 TSE1.txt
+140638 ==== run_with_interval ====
+Version 1.0 TSE1.txt
+140753 ==== run_with_interval ====
+AWSTIU download size=2687550
+HWPIXU download size=1458450
+BFVALU download size=820
+140856 ==== run_with_interval ====
+140957 ==== run_with_interval ====
+BFIDHU.CSV download size=16057
+BFIDHU.XLS download size=26981
+141059 ==== run_with_interval ====
+141159 ==== run_with_interval ====
+141300 ==== run_with_interval ====
+Version 1.0 TSE1.txt
+141528 ==== run_with_interval ====
+BFIDHU.CSV download size=16057
+BFIDHU.XLS download size=26981
+AWSTIU download size=2687550
+HWPIXU download size=1458450
+BFVALU download size=820
+141631 ==== run_with_interval ====
+141731 ==== run_with_interval ====
+141832 ==== run_with_interval ====
+141932 ==== run_with_interval ====
+142033 ==== run_with_interval ====
+142133 ==== run_with_interval ====
+142234 ==== run_with_interval ====
+142334 ==== run_with_interval ====
+142435 ==== run_with_interval ====
+142535 ==== run_with_interval ====
+142636 ==== run_with_interval ====
+142736 ==== run_with_interval ====
+142836 ==== run_with_interval ====
+142937 ==== run_with_interval ====
+143037 ==== run_with_interval ====
+143138 ==== run_with_interval ====
+143238 ==== run_with_interval ====
+143339 ==== run_with_interval ====
+143439 ==== run_with_interval ====
+143540 ==== run_with_interval ====
+143640 ==== run_with_interval ====
+143741 ==== run_with_interval ====
+143841 ==== run_with_interval ====
+143942 ==== run_with_interval ====
+144042 ==== run_with_interval ====
+144143 ==== run_with_interval ====
+TOP.ZIP download size=2383374
+MSMQP download size=846380
+AWSTIU1 download size=2687550
+144247 ==== run_with_interval ====
+144347 ==== run_with_interval ====
+144448 ==== run_with_interval ====
+144548 ==== run_with_interval ====
+144649 ==== run_with_interval ====
+144749 ==== run_with_interval ====
+144849 ==== run_with_interval ====
+144950 ==== run_with_interval ====
+TWT44U download size=10230
+145051 ==== run_with_interval ====
+145151 ==== run_with_interval ====
+145251 ==== run_with_interval ====
+145352 ==== run_with_interval ====
+145452 ==== run_with_interval ====
+145553 ==== run_with_interval ====
+145653 ==== run_with_interval ====
+145754 ==== run_with_interval ====
+145854 ==== run_with_interval ====
+145955 ==== run_with_interval ====
+HWPBKU download size=93300
+BFICAE download size=600
+150056 ==== run_with_interval ====
+150156 ==== run_with_interval ====
+150257 ==== run_with_interval ====
+150357 ==== run_with_interval ====
+150459 ==== run_with_interval ====
+150559 ==== run_with_interval ====
+150659 ==== run_with_interval ====
+150800 ==== run_with_interval ====
+150900 ==== run_with_interval ====
+151001 ==== run_with_interval ====
+151101 ==== run_with_interval ====
+151202 ==== run_with_interval ====
+151302 ==== run_with_interval ====
+151402 ==== run_with_interval ====
+151503 ==== run_with_interval ====
+151603 ==== run_with_interval ====
+151704 ==== run_with_interval ====
+151804 ==== run_with_interval ====
+151905 ==== run_with_interval ====
+152005 ==== run_with_interval ====
+152106 ==== run_with_interval ====
+152206 ==== run_with_interval ====
+152307 ==== run_with_interval ====
+152407 ==== run_with_interval ====
+152508 ==== run_with_interval ====

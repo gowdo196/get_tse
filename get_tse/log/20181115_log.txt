@@ -1,0 +1,23 @@
+Version 1.0 TSE1.txt
+160433 ==== run_with_interval ====
+BFIDHU.CSV download size=16057
+BFIDHU.XLS download size=26981
+BFIDLU.CSV download size=15955
+BFIDLU.XLS download size=26720
+BFIDNU.CSV download size=766
+BFIDNU.XLS download size=1452
+BFIDPU.CSV download size=670
+BFIDPU.XLS download size=1200
+TWT54U download size=1671900
+TOP.ZIP download size=2326221
+TWT47U download size=2061750
+TWT38U download size=192280
+HWPBKU download size=93300
+BFICAE download size=550
+MSMQP download size=821420
+TWT43U download size=1222840
+TWT44U download size=9920
+TWHFAU download size=150
+AWSTIU1 download size=2682000
+TWFSTU1 download size=96480
+160539 ==== run_with_interval ====

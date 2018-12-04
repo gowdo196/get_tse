@@ -1,0 +1,27 @@
+====2018 11 05 AL ====
+主程式 是 tse_file_get.exe
+執行之後會冒出daily_log資料夾,tse_act_log是資料檔請勿修改內容值
+
+config檔案 是 GET_TSE.ini
+Schedule_Time 依照 TSE.txt
+
+USER_ID=U0009 		使用者帳號
+USER_PWD=RUSO2000 	使用者密碼
+PROXY_PORT= 		暫不使用
+PROXY_IP= 		暫不使用
+LOG_PATH=.\log\	執行log路徑
+DOWNLOAD_PATH=.\DOWNLOAD\	下載檔案路徑
+URL=https://eshop.twse.com.tw/api/v1.0/file/getFiles	下載網址
+Tick_Interval=60	執行間隔(秒)
+
+======================================================================================
+強制下載檔方式
+修改 GET_TSE.ini的
+force_get=[]
+將檔名寫入
+
+force_get=["AWSTIU1.xls","HWPIXU.csv","TWTABU"]
+上面範例是強制抓取 AWSTIU1.xls HWPIXU.csv TWTABU 三個檔
+
+當抓取完成後請記得清除，不然程式會持續下載
+修改不需要重啟程式，程式會定期(Tick_Interval)讀取INI
