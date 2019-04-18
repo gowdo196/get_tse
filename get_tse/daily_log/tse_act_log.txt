@@ -1,67 +1,67 @@
-{'file': {'dateTime': '221514', 'name': 'TWT58U', 'dataDate': '20181115', 'length': '143224'}}
-{'file': {'dateTime': '193304', 'name': 'TWT95U', 'dataDate': '20181115', 'length': '9920'}}
-{'file': {'dateTime': '203226', 'name': 'BTLOUR', 'dataDate': '20181115', 'length': '206000'}}
-{'file': {'dateTime': '140144', 'name': 'BFIDHU.CSV', 'dataDate': '20181116', 'length': '16057'}}
-{'file': {'dateTime': '140144', 'name': 'BFIDHU.XLS', 'dataDate': '20181116', 'length': '26981'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '181454', 'name': 'BFIDLU.CSV', 'dataDate': '20181115', 'length': '15955'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '181454', 'name': 'BFIDLU.XLS', 'dataDate': '20181115', 'length': '26720'}}
-{'file': {'dateTime': '221515', 'name': 'BFIDMU.CSV', 'dataDate': '20181115', 'length': '15981'}}
-{'file': {'dateTime': '221515', 'name': 'BFIDMU.XLS', 'dataDate': '20181115', 'length': '26751'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '181553', 'name': 'BFIDNU.CSV', 'dataDate': '20181115', 'length': '766'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '181553', 'name': 'BFIDNU.XLS', 'dataDate': '20181115', 'length': '1452'}}
-{'file': {'dateTime': '221623', 'name': 'BFIDOU.CSV', 'dataDate': '20181115', 'length': '792'}}
-{'file': {'dateTime': '221623', 'name': 'BFIDOU.XLS', 'dataDate': '20181115', 'length': '1483'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '181553', 'name': 'BFIDPU.CSV', 'dataDate': '20181115', 'length': '670'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '181553', 'name': 'BFIDPU.XLS', 'dataDate': '20181115', 'length': '1200'}}
-{'file': {'dateTime': '221623', 'name': 'BFIDQU.CSV', 'dataDate': '20181115', 'length': '696'}}
-{'file': {'dateTime': '221623', 'name': 'BFIDQU.XLS', 'dataDate': '20181115', 'length': '1231'}}
-{'file': {'dateTime': '73201', 'name': 'N41', 'dataDate': '20181116', 'length': '214130'}}
-{'file': {'dateTime': '73204', 'name': 'O41', 'dataDate': '20181116', 'length': '178710'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '193413', 'name': 'TWT54U', 'dataDate': '20181115', 'length': '1671900'}}
-{'file': {'dateTime': '193413', 'name': 'TWT54U.csv', 'dataDate': '20181115', 'length': '754741'}}
-{'file': {'dateTime': '170820', 'name': 'TWTADU', 'dataDate': '20181115', 'length': '80720'}}
-{'file': {'dateTime': '143925', 'name': 'TOP.ZIP', 'dataDate': '20181116', 'length': '2383374'}}
-{'file': {'dateTime': '203226', 'name': 'HBOURU', 'dataDate': '20181115', 'length': '205800'}}
-{'file': {'dateTime': '203226', 'name': 'HBOURU.csv', 'dataDate': '20181115', 'length': '119010'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '193410', 'name': 'TWT47U', 'dataDate': '20181115', 'length': '2061750'}}
-{'file': {'dateTime': '193410', 'name': 'TWT47U.csv', 'dataDate': '20181115', 'length': '946625'}}
-{'file': {'dateTime': '203226', 'name': 'BWOFFU', 'dataDate': '20181115', 'length': '24648'}}
-{'file': {'dateTime': '203226', 'name': 'BWOFFU.csv', 'dataDate': '20181115', 'length': '14699'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '160107', 'name': 'TWT38U', 'dataDate': '20181115', 'length': '192280'}}
-{'file': {'dateTime': '171021', 'name': 'TWTABU', 'dataDate': '20181115', 'length': '192280'}}
-{'file': {'dateTime': '160107', 'name': 'TWT38U.csv', 'dataDate': '20181115', 'length': '107510'}}
-{'file': {'dateTime': '171021', 'name': 'TWTABU.csv', 'dataDate': '20181115', 'length': '107532'}}
-{'file': {'dateTime': '143854', 'name': 'TWT53U', 'dataDate': '20181116', 'length': '108630'}}
-{'file': {'dateTime': '143854', 'name': 'TWT53U.csv', 'dataDate': '20181116', 'length': '69137'}}
-{'file': {'dateTime': '171150', 'name': 'TWTA8U', 'dataDate': '20181115', 'length': '93300'}}
-{'file': {'dateTime': '145258', 'name': 'HWPBKU', 'dataDate': '20181116', 'length': '93300'}}
-{'file': {'dateTime': '145258', 'name': 'HWPBKU.csv', 'dataDate': '20181116', 'length': '65974'}}
-{'file': {'dateTime': '171150', 'name': 'TWTA8U.csv', 'dataDate': '20181115', 'length': '65597'}}
-{'file': {'dateTime': '145158', 'name': 'BFICAE', 'dataDate': '20181116', 'length': '600'}}
-{'file': {'dateTime': '145158', 'name': 'BFICAE.csv', 'dataDate': '20181116', 'length': '524'}}
-{'file': {'dateTime': '143613', 'name': 'MSMQP', 'dataDate': '20181116', 'length': '846380'}}
-{'file': {'dateTime': '143613', 'name': 'MSMQP.csv', 'dataDate': '20181116', 'length': '1050486'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '160108', 'name': 'TWT43U', 'dataDate': '20181115', 'length': '1222840'}}
-{'file': {'dateTime': '171149', 'name': 'TWTAAU', 'dataDate': '20181115', 'length': '1223600'}}
-{'file': {'dateTime': '160108', 'name': 'TWT43U.csv', 'dataDate': '20181115', 'length': '655055'}}
-{'file': {'dateTime': '171149', 'name': 'TWTAAU.csv', 'dataDate': '20181115', 'length': '655435'}}
-{'file': {'dateTime': '144157', 'name': 'TWT44U', 'dataDate': '20181116', 'length': '10230'}}
-{'file': {'dateTime': '144157', 'name': 'TWT44U.csv', 'dataDate': '20181116', 'length': '7205'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '153058', 'name': 'TWHFAU', 'dataDate': '20181115', 'length': '150'}}
-{'file': {'dateTime': '193303', 'name': 'BFTAEU', 'dataDate': '20181115', 'length': '150'}}
-{'file': {'dateTime': '153058', 'name': 'TWHFAU.csv', 'dataDate': '20181115', 'length': '396'}}
-{'file': {'dateTime': '193303', 'name': 'BFTAEU.csv', 'dataDate': '20181115', 'length': '396'}}
-{'file': {'dateTime': '134632', 'name': 'AWSTIU', 'dataDate': '20181116', 'length': '2687550'}}
-{'file': {'dateTime': '143210', 'name': 'AWSTIU1', 'dataDate': '20181116', 'length': '2687550'}}
-{'file': {'dateTime': '171144', 'name': 'TWTA6U', 'dataDate': '20181115', 'length': '2682000'}}
-{'file': {'dateTime': '134632', 'name': 'AWSTIU.xls', 'dataDate': '20181116', 'length': '5784576'}}
-{'file': {'dateTime': '143210', 'name': 'AWSTIU1.xls', 'dataDate': '20181116', 'length': '5784576'}}
-{'file': {'dateTime': '171144', 'name': 'TWTA6U.xls', 'dataDate': '20181115', 'length': '5771776'}}
-{'file': {'dateTime': '133542', 'name': 'HWPIXU', 'dataDate': '20181116', 'length': '1458450'}}
-{'file': {'dateTime': '133542', 'name': 'HWPIXU.csv', 'dataDate': '20181116', 'length': '1574860'}}
-{'file': {'dateTime': '134520', 'name': 'BFVALU', 'dataDate': '20181116', 'length': '820'}}
-{'file': {'dateTime': '134520', 'name': 'BFVALU.csv', 'dataDate': '20181116', 'length': '745'}}
-{'file': {'dateTime': '203627', 'name': 'TWFSTU', 'dataDate': '20181115', 'length': '96480'}}
-{'status': 'OutOfDate', 'file': {'dateTime': '162510', 'name': 'TWFSTU1', 'dataDate': '20181115', 'length': '96480'}}
-{'file': {'dateTime': '162510', 'name': 'TWFSTU1.xls', 'dataDate': '20181115', 'length': '227840'}}
-{'file': {'dateTime': '203627', 'name': 'TWFSTU.xls', 'dataDate': '20181115', 'length': '227840'}}
+{'file': {'name': 'TWT58U', 'dataDate': '20190130', 'length': '130864', 'dateTime': '222108'}}
+{'file': {'name': 'TWT95U', 'dataDate': '20190130', 'length': '13640', 'dateTime': '193402'}}
+{'file': {'name': 'BTLOUR', 'dataDate': '20190130', 'length': '207200', 'dateTime': '203303'}}
+{'file': {'name': 'BFIDHU.CSV', 'dataDate': '20190211', 'length': '16057', 'dateTime': '140303'}}
+{'file': {'name': 'BFIDHU.XLS', 'dataDate': '20190211', 'length': '26981', 'dateTime': '140303'}}
+{'file': {'name': 'BFIDLU.CSV', 'dataDate': '20190130', 'length': '15955', 'dateTime': '182407'}, 'status': 'OutOfDate'}
+{'file': {'name': 'BFIDLU.XLS', 'dataDate': '20190130', 'length': '26720', 'dateTime': '182407'}, 'status': 'OutOfDate'}
+{'file': {'name': 'BFIDMU.CSV', 'dataDate': '20190130', 'length': '15981', 'dateTime': '222115'}}
+{'file': {'name': 'BFIDMU.XLS', 'dataDate': '20190130', 'length': '26751', 'dateTime': '222115'}}
+{'file': {'name': 'BFIDNU.CSV', 'dataDate': '20190130', 'length': '766', 'dateTime': '182504'}, 'status': 'OutOfDate'}
+{'file': {'name': 'BFIDNU.XLS', 'dataDate': '20190130', 'length': '1452', 'dateTime': '182504'}, 'status': 'OutOfDate'}
+{'file': {'name': 'BFIDOU.CSV', 'dataDate': '20190130', 'length': '792', 'dateTime': '222203'}}
+{'file': {'name': 'BFIDOU.XLS', 'dataDate': '20190130', 'length': '1483', 'dateTime': '222203'}}
+{'file': {'name': 'BFIDPU.CSV', 'dataDate': '20190130', 'length': '670', 'dateTime': '182504'}, 'status': 'OutOfDate'}
+{'file': {'name': 'BFIDPU.XLS', 'dataDate': '20190130', 'length': '1200', 'dateTime': '182504'}, 'status': 'OutOfDate'}
+{'file': {'name': 'BFIDQU.CSV', 'dataDate': '20190130', 'length': '696', 'dateTime': '222203'}}
+{'file': {'name': 'BFIDQU.XLS', 'dataDate': '20190130', 'length': '1231', 'dateTime': '222203'}}
+{'file': {'name': 'N41', 'dataDate': '20190211', 'length': '216430', 'dateTime': '73303'}}
+{'file': {'name': 'O41', 'dataDate': '20190211', 'length': '179630', 'dateTime': '73303'}}
+{'file': {'name': 'TWT54U', 'dataDate': '20190130', 'length': '1533750', 'dateTime': '193503'}, 'status': 'OutOfDate'}
+{'file': {'name': 'TWT54U.csv', 'dataDate': '20190130', 'length': '680736', 'dateTime': '193518'}}
+{'file': {'name': 'TWTADU', 'dataDate': '20190130', 'length': '147760', 'dateTime': '170903'}}
+{'file': {'name': 'TOP.ZIP', 'dataDate': '20190211', 'length': '2274822', 'dateTime': '143752'}}
+{'file': {'name': 'HBOURU', 'dataDate': '20190130', 'length': '207000', 'dateTime': '203302'}}
+{'file': {'name': 'HBOURU.csv', 'dataDate': '20190130', 'length': '119585', 'dateTime': '203305'}}
+{'file': {'name': 'TWT47U', 'dataDate': '20190130', 'length': '2181300', 'dateTime': '193503'}, 'status': 'OutOfDate'}
+{'file': {'name': 'TWT47U.csv', 'dataDate': '20190130', 'length': '1009848', 'dateTime': '193517'}}
+{'file': {'name': 'BWOFFU', 'dataDate': '20190130', 'length': '24792', 'dateTime': '203302'}}
+{'file': {'name': 'BWOFFU.csv', 'dataDate': '20190130', 'length': '14750', 'dateTime': '203305'}}
+{'file': {'name': 'TWT38U', 'dataDate': '20190130', 'length': '151392', 'dateTime': '160102'}, 'status': 'OutOfDate'}
+{'file': {'name': 'TWTABU', 'dataDate': '20190130', 'length': '151392', 'dateTime': '171103'}}
+{'file': {'name': 'TWT38U.csv', 'dataDate': '20190130', 'length': '83360', 'dateTime': '160106'}}
+{'file': {'name': 'TWTABU.csv', 'dataDate': '20190130', 'length': '83376', 'dateTime': '171106'}}
+{'file': {'name': 'TWT53U', 'dataDate': '20190211', 'length': '110466', 'dateTime': '143813'}}
+{'file': {'name': 'TWT53U.csv', 'dataDate': '20190211', 'length': '71983', 'dateTime': '143839'}}
+{'file': {'name': 'TWTA8U', 'dataDate': '20190130', 'length': '93100', 'dateTime': '171208'}}
+{'file': {'name': 'HWPBKU', 'dataDate': '20190211', 'length': '93100', 'dateTime': '145202'}}
+{'file': {'name': 'HWPBKU.csv', 'dataDate': '20190211', 'length': '65667', 'dateTime': '145205'}}
+{'file': {'name': 'TWTA8U.csv', 'dataDate': '20190130', 'length': '65221', 'dateTime': '171244'}}
+{'file': {'name': 'BFICAE', 'dataDate': '20190211', 'length': '50', 'dateTime': '145103'}}
+{'file': {'name': 'BFICAE.csv', 'dataDate': '20190211', 'length': '77', 'dateTime': '145106'}}
+{'file': {'name': 'MSMQP', 'dataDate': '20190211', 'length': '717980', 'dateTime': '143510'}}
+{'file': {'name': 'MSMQP.csv', 'dataDate': '20190211', 'length': '893539', 'dateTime': '143515'}}
+{'file': {'name': 'TWT43U', 'dataDate': '20190130', 'length': '1037096', 'dateTime': '160103'}, 'status': 'OutOfDate'}
+{'file': {'name': 'TWTAAU', 'dataDate': '20190130', 'length': '1037856', 'dateTime': '171208'}}
+{'file': {'name': 'TWT43U.csv', 'dataDate': '20190130', 'length': '536165', 'dateTime': '160107'}}
+{'file': {'name': 'TWTAAU.csv', 'dataDate': '20190130', 'length': '536538', 'dateTime': '171244'}}
+{'file': {'name': 'TWT44U', 'dataDate': '20190211', 'length': '9486', 'dateTime': '144303'}}
+{'file': {'name': 'TWT44U.csv', 'dataDate': '20190211', 'length': '6751', 'dateTime': '144306'}}
+{'file': {'name': 'TWHFAU', 'dataDate': '20190130', 'length': '150', 'dateTime': '153103'}, 'status': 'OutOfDate'}
+{'file': {'name': 'BFTAEU', 'dataDate': '20190130', 'length': '150', 'dateTime': '193402'}}
+{'file': {'name': 'TWHFAU.csv', 'dataDate': '20190130', 'length': '396', 'dateTime': '153106'}}
+{'file': {'name': 'BFTAEU.csv', 'dataDate': '20190130', 'length': '397', 'dateTime': '193406'}}
+{'file': {'name': 'AWSTIU', 'dataDate': '20190211', 'length': '2455800', 'dateTime': '134703'}}
+{'file': {'name': 'AWSTIU1', 'dataDate': '20190211', 'length': '2455800', 'dateTime': '143311'}}
+{'file': {'name': 'TWTA6U', 'dataDate': '20190130', 'length': '2460600', 'dateTime': '171209'}, 'status': 'ForceGet'}
+{'file': {'name': 'AWSTIU.xls', 'dataDate': '20190211', 'length': '5286400', 'dateTime': '134723'}}
+{'file': {'name': 'AWSTIU1.xls', 'dataDate': '20190211', 'length': '5286400', 'dateTime': '143347'}}
+{'file': {'name': 'TWTA6U.xls', 'dataDate': '20190130', 'length': '5292032', 'dateTime': '171244'}}
+{'file': {'name': 'HWPIXU', 'dataDate': '20190211', 'length': '1458450', 'dateTime': '133705'}}
+{'file': {'name': 'HWPIXU.csv', 'dataDate': '20190211', 'length': '1574176', 'dateTime': '133711'}}
+{'file': {'name': 'BFVALU', 'dataDate': '20190211', 'length': '820', 'dateTime': '134603'}}
+{'file': {'name': 'BFVALU.csv', 'dataDate': '20190211', 'length': '747', 'dateTime': '134621'}}
+{'file': {'name': 'TWFSTU', 'dataDate': '20190201', 'length': '98010', 'dateTime': '203103'}}
+{'file': {'name': 'TWFSTU1', 'dataDate': '20190130', 'length': '98010', 'dateTime': '162703'}, 'status': 'OutOfDate'}
+{'file': {'name': 'TWFSTU1.xls', 'dataDate': '20190130', 'length': '231424', 'dateTime': '162707'}}
+{'file': {'name': 'TWFSTU.xls', 'dataDate': '20190201', 'length': '231424', 'dateTime': '203107'}}
